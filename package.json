@@ -1,0 +1,28 @@
+{
+  "name": "connected-galaxy-embedded",
+  "version": "1.0.0",
+  "description": "This is the ebmbedded part of the 'Connected Galaxy' project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goyapa/connected-galaxy-embedded.git"
+  },
+  "keywords": [
+    "Meteor-DDP",
+    "Johnny-Five",
+    "RaspberryPi"
+  ],
+  "author": "Michael Macherey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Goyapa/connected-galaxy-embedded/issues"
+  },
+  "homepage": "https://github.com/Goyapa/connected-galaxy-embedded#readme",
+  "dependencies": {
+    "johnny-five": "^0.9.49",
+    "raspi-io": "^6.0.1"
+  }
+}
