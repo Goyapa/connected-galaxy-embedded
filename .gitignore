@@ -31,3 +31,7 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# config: Configuration control for production node deployments, https://www.npmjs.com/package/config
+config/default.json
+config/production.json
