@@ -1,4 +1,5 @@
 // Todo: Setup Meteor App install DDP and establish first connetion.
+// and config https://www.npmjs.com/package/config
 
 var raspi = require('raspi-io');
 var five = require('johnny-five');
