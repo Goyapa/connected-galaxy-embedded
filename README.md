@@ -3,6 +3,7 @@ Embedded part of the "Connected Galaxy" project on RaspberryPi with Docker.
 
 ## Start project with:
 $ npm install
+
 $ sudo node index.js
 
 ## Embedded
@@ -42,3 +43,6 @@ Meteor DDP.
 [voyager-bot](https://github.com/juliocesar-io/voyager-bot)
 
 [node-webduino](https://hub.docker.com/r/coopermaa/node-webduino/)
+
+
+## [Go to the Connected-Galaxy root project](https://github.com/Goyapa/connected-galaxy)
