@@ -12,10 +12,18 @@ Hardware: RaspberryPi, Wii-Nunchuck.
 Software:
 Docker Container,
 Raspian,
-Node.js, Johnny-Five and
-Meteor DDP.
+Rust
 
-#### Debian
+Prototype: Node.js, Johnny-Five and
+Meteor DDP
+
+### Raspian
+[DOCKER COMES TO RASPBERRY PI](https://www.raspberrypi.org/blog/docker-comes-to-raspberry-pi/)
+
+[Docker: OFFICIAL RUST REPOSITORY](https://hub.docker.com/_/rust/)
+
+### Debian
+
 [How to get Docker working on your favourite ARM board with HypriotOS](http://blog.hypriot.com/post/how-to-get-docker-working-on-your-favourite-arm-board-with-hypriotos/)
 
 [Docker Sensor Fu on a Raspberry Pi](http://blog.hypriot.com/getting-started-with-docker-on-your-arm-device/)
